@@ -38,4 +38,4 @@ Document the steps you took to create the dashboard. Include explanations for yo
 ***
 ## Dashboard:
 Please note that the solution for the Project is here: [here] (https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3pByQD7l0dLEsGzFRdsq8U8BjlpysPwnFK0dD_KQ1BKXkcCYg16icXzFMOd7K2KXhj5bYnXPlMlyu/pubhtml)
- 
+ ![Screenshot (434)](https://github.com/Adityaxrana/Data-Analyst-WInter-Internship/blob/main/Week%201/Screenshot%202023-12-23%20at%208.23.18%E2%80%AFPM.png)
