@@ -42,6 +42,8 @@ Documentation:
 Document your code, providing explanations for each function and variable.
 Include any external references or inspirations for your game.
 
+ ![Screenshot (434)](https://github.com/Adityaxrana/Data-Analyst-WInter-Internship/blob/main/Week%202/Screenshot%202023-12-23%20at%209.02.05%E2%80%AFPM.png)
+
 ***
 
 
