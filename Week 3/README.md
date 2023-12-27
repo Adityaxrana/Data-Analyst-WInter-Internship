@@ -14,7 +14,7 @@ Effective data cleaning lays the foundation for accurate and meaningful analysis
 ***
 
 ## Solution
-Dataset Exploration:
+**Dataset Exploration:**
 Begin by exploring the provided dataset. Understand its structure, column names, and the types of data it contains.
 
 Identify any missing values, outliers, or inconsistencies within the dataset.
